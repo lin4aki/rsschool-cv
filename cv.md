@@ -3,7 +3,7 @@
 - phone: +380957295888
 - telegram: @lin4aki
 
-###3. About me:
+### 3. About me:
 Freelance developer with strong analytical skills and proficiency in mathematics. Looking to advance a promising career in the position of Front-end developer, offering proven abilities to develop web-sites based on specialized clients need.
 ### 4.Skills:
 - Html

@@ -26,7 +26,8 @@ function positiveSum(arr) {
     return sum;
 }
 ```
-### 6.Upwork, freelancer
+
+### 6. Upwork, freelancer
 ### 7. Education:
 - Specialized Secondary School with in-depth study of English №93
 - Lviv Polytechnic College of Technology
